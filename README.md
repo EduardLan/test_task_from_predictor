@@ -2,7 +2,7 @@
 
 ### Комметарии к ноутбуку с выполненным заданием:
 * ссылка на документ с EDA в html здесь https://disk.yandex.ru/d/i5ZEtkIjS-xsCg
-* видео с моими комметариями здесь:
+* видео с моими комметариями здесь: https://youtu.be/KsTpNSmnKKE
 * остальная информация в ноутбуке test_task.ipynb
 * файл с базой данных в csv здесь: https://disk.yandex.ru/d/l1DS4nsSMYBm4w
 
